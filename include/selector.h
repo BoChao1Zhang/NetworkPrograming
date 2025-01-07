@@ -6,11 +6,11 @@ namespace bizi::socket {
     class Selector {
     public:
         Selector();
-        ~Selector();
+        ~Selector() = default;
 
         void set(int fd);
         void del(int fd);
-        int select(int milliseconds);
+        int select(long milliseconds);
         int maxFd() const;
         bool isSet(int fd);
 
