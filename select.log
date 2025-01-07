@@ -1,0 +1,177 @@
+2025-01-07 10:58:10 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 10:58:10 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 10:58:10 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:54 bind error: errno=98 errmsg=Address already in use
+2025-01-07 10:58:10 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 10:59:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 10:59:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 10:59:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 10:59:36 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 10:59:36 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:00:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:00:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:00:26 ERROR /home/zbc/code/cpp/Network/echo/src/select.cpp:30 select error: errno=9, errmsg=Bad file descriptor
+2025-01-07 11:00:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:00:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:01:17 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:01:17 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:01:17 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:01:21 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:01:21 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:05:16 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:05:16 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:05:16 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:05:23 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:05:23 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:05:23 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:05:28 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:05:28 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:51 accept success: connfd = 5
+2025-01-07 11:05:28 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:05:59 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:05:59 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:05:59 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:06:07 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:06:14 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:51 accept success: connfd = 5
+2025-01-07 11:06:14 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:06:25 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:06:25 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:06:25 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:06:34 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:06:34 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:51 accept success: connfd = 5
+2025-01-07 11:06:34 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:07:15 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:07:15 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:07:15 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:07:21 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:07:21 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:07:21 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:54 bind error: errno=98 errmsg=Address already in use
+2025-01-07 11:07:21 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:07:29 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:07:29 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:51 accept success: connfd = 5
+2025-01-07 11:07:29 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:08:04 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:08:04 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:08:04 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:08:09 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:08:09 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:51 accept success: connfd = 5
+2025-01-07 11:08:09 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:09:18 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:09:18 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:09:18 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:09:22 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:09:22 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:51 accept success: connfd = 5
+2025-01-07 11:09:22 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:40 select ok: nready = 1
+2025-01-07 11:09:59 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:68 0
+2025-01-07 11:09:59 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:09:59 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:09:59 ERROR /home/zbc/code/cpp/Network/echo/src/select.cpp:30 select error: errno=9, errmsg=Bad file descriptor
+2025-01-07 11:09:59 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:09:59 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:19:05 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:19:05 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:19:05 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:19:10 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:19:10 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:52 accept success: connfd = 5
+2025-01-07 11:19:10 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:19:10 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:14
+2025-01-07 11:19:10 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:69 recv data: Hello, Server!
+2025-01-07 11:19:10 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:19:10 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:19:10 ERROR /home/zbc/code/cpp/Network/echo/src/select.cpp:31 select error: errno=9, errmsg=Bad file descriptor
+2025-01-07 11:19:10 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:19:10 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:19:37 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:19:37 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:19:37 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:19:40 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:19:40 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:52 accept success: connfd = 5
+2025-01-07 11:19:40 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:19:40 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:14
+2025-01-07 11:19:40 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:69 recv data: Hello, Server!
+2025-01-07 11:19:40 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:19:40 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:19:40 ERROR /home/zbc/code/cpp/Network/echo/src/select.cpp:31 select error: errno=9, errmsg=Bad file descriptor
+2025-01-07 11:19:40 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:19:40 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:20:17 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:20:17 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:20:17 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:20:20 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:20:20 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:52 accept success: connfd = 5
+2025-01-07 11:20:20 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:20:20 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:14
+2025-01-07 11:20:20 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:69 recv data: Hello, Server!
+2025-01-07 11:20:20 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:20:20 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:20:20 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:20:20 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:0
+2025-01-07 11:20:20 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:64 connection close: connfd = 5
+2025-01-07 11:20:20 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:92 close failed: ec=9, error_msg=Bad file descriptor
+2025-01-07 11:20:20 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:52 accept success: connfd = 0
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:14
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:69 recv data: Hello, Server!
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:21:03 ERROR /home/zbc/code/cpp/Network/echo/src/select.cpp:31 select error: errno=9, errmsg=Bad file descriptor
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:21:03 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:21:18 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:21:18 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:21:18 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:52 accept success: connfd = 5
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:14
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:69 recv data: Hello, Server!
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:0
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:64 connection close: connfd = 5
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:21:21 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:52 accept success: connfd = 6
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:14
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:69 recv data: Hello, Server!
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:0
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:64 connection close: connfd = 6
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:21:23 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:52 accept success: connfd = 7
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:14
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:69 recv data: Hello, Server!
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:0
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:64 connection close: connfd = 7
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 11:21:24 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 11:22:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:22:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:22:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:22:38 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 11:22:38 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 11:22:38 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 11:22:41 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:22:41 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:52 accept success: connfd = 5
+2025-01-07 11:22:41 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:22:41 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:14
+2025-01-07 11:22:41 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:69 recv data: Hello, Server!
+2025-01-07 11:22:41 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success: fd = 0
+2025-01-07 11:22:41 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:41 select ok: nready = 1
+2025-01-07 11:22:41 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:62 recv len:0
+2025-01-07 11:22:41 DEBUG /home/zbc/code/cpp/Network/echo/src/select.cpp:64 connection close: connfd = 5
+2025-01-07 11:22:41 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success: fd = 0
