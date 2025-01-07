@@ -1,0 +1,83 @@
+2025-01-06 17:01:59 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:115 create socket success
+2025-01-06 17:35:09 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:119 create socket success
+2025-01-06 17:35:09 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:37 bind called with ip=127.0.0.1, port=8080
+2025-01-06 17:35:09 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:56 listen called with backlog=1024
+2025-01-06 17:37:50 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:119 create socket success
+2025-01-06 17:37:50 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:37 bind called with ip=127.0.0.1, port=8080
+2025-01-06 17:37:50 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:56 listen called with backlog=1024
+2025-01-06 17:38:46 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:118 create socket success
+2025-01-06 17:38:46 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:37 bind called with ip=127.0.0.1, port=8080
+2025-01-06 17:38:46 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:48 bind error: errno=98 errmsg=Address already in use
+
+2025-01-06 17:38:46 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:56 listen called with backlog=1024
+2025-01-06 18:26:07 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:122 create socket success
+2025-01-06 18:26:07 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:38 bind called with ip=127.0.0.1, port=8080
+2025-01-06 18:26:07 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:53 listen called with backlog=1024
+2025-01-06 18:26:14 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:97 accept success, client ip=127.0.0.1, port=52364
+2025-01-06 18:26:14 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:84 close success
+2025-01-06 18:26:14 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:131 Socket destroyed
+2025-01-06 18:26:35 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:97 accept success, client ip=127.0.0.1, port=47790
+2025-01-06 18:26:35 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:84 close success
+2025-01-06 18:26:35 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:131 Socket destroyed
+2025-01-06 18:26:41 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:97 accept success, client ip=127.0.0.1, port=47794
+2025-01-06 18:26:41 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:84 close success
+2025-01-06 18:26:41 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:131 Socket destroyed
+2025-01-06 21:09:09 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:118 create socket success
+2025-01-06 21:09:09 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:37 bind called with ip=127.0.0.1, port=8080
+2025-01-06 21:09:09 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:56 listen called with backlog=1024
+2025-01-06 21:09:29 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:118 create socket success
+2025-01-06 21:09:29 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:37 bind called with ip=127.0.0.1, port=8080
+2025-01-06 21:09:38 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:56 listen called with backlog=1024
+2025-01-06 21:31:30 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:134 create socket success
+2025-01-06 21:31:30 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:41 bind called with ip=127.0.0.1, port=8080
+2025-01-06 21:31:30 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:58 listen called with backlog=1024
+2025-01-06 21:31:44 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:106 accept success, client ip=127.0.0.1, port=46937
+2025-01-06 21:31:44 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:92 close success
+2025-01-06 21:31:44 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:142 Socket destroyed
+2025-01-06 22:46:19 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:138 create socket success
+2025-01-06 22:46:19 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-06 22:46:19 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-06 22:46:19 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:106 accept failed: ec=11, error_msg=Resource temporarily unavailable
+2025-01-06 22:46:19 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:126 recv failed: ec=9, error_msg=Bad file descriptor
+2025-01-06 22:48:57 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-06 22:48:57 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-06 22:48:57 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-06 22:48:57 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:104 accept failed: ec=11, error_msg=Resource temporarily unavailable
+2025-01-06 22:48:57 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:121 recv failed: ec=9, error_msg=Bad file descriptor
+2025-01-06 22:50:28 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-06 22:50:28 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-06 22:50:28 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-06 22:50:38 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:104 accept failed: ec=11, error_msg=Resource temporarily unavailable
+2025-01-06 22:50:38 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:121 recv failed: ec=9, error_msg=Bad file descriptor
+2025-01-06 22:51:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-06 22:51:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-06 22:51:26 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-06 22:52:12 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:104 accept failed: ec=11, error_msg=Resource temporarily unavailable
+2025-01-06 22:52:12 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:121 recv failed: ec=9, error_msg=Bad file descriptor
+2025-01-06 22:52:28 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-06 22:52:28 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-06 22:52:28 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-06 22:52:28 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:104 accept failed: ec=11, error_msg=Resource temporarily unavailable
+2025-01-06 22:52:28 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:121 recv failed: ec=9, error_msg=Bad file descriptor
+2025-01-06 22:53:06 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-06 22:53:06 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-06 22:53:06 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-06 22:53:49 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:104 accept failed: ec=11, error_msg=Resource temporarily unavailable
+2025-01-06 22:53:49 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:121 recv failed: ec=9, error_msg=Bad file descriptor
+2025-01-06 22:54:22 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-06 22:54:22 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-06 22:54:22 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-06 22:54:24 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:104 accept failed: ec=11, error_msg=Resource temporarily unavailable
+2025-01-06 22:54:24 ERROR /home/zbc/code/cpp/Network/echo/src/socket.cpp:121 recv failed: ec=9, error_msg=Bad file descriptor
+2025-01-06 22:54:34 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-06 22:54:34 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-06 22:54:34 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-06 22:55:02 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-06 22:55:02 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 09:43:51 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:133 create socket success
+2025-01-07 09:43:51 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:45 bind called with ip=127.0.0.1, port=8080
+2025-01-07 09:43:51 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:62 listen called with backlog=1024
+2025-01-07 09:44:06 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 09:44:06 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed
+2025-01-07 09:44:09 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:96 close success
+2025-01-07 09:44:09 DEBUG /home/zbc/code/cpp/Network/echo/src/socket.cpp:141 Socket destroyed

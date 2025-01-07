@@ -23,6 +23,8 @@ set(SELECT_SERVER_SOURCES
     src/server_socket.cpp
     utility/logger.cpp
     src/select.cpp
+    src/selector.cpp
+    src/select_handle.cpp
 )
 
 set(CLIENT_SOURCES

@@ -1,0 +1,6 @@
+# ninja log v5
+1	473	1736317296776895659	CMakeFiles/client.dir/src/client_socket.cpp.o	f1e9b67bcc75072e
+1	859	1736317297173324600	CMakeFiles/client.dir/src/client.cpp.o	113e9af7a4dbfe74
+2	915	1736317297232782029	CMakeFiles/client.dir/utility/logger.cpp.o	f3f9f8b65ec981e3
+1	917	1736317297232782029	CMakeFiles/client.dir/src/socket.cpp.o	f47ef2291e31141
+918	1136	1736317297450792599	client	66b1a6a2edc20326

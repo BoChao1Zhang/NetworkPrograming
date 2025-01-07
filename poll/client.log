@@ -1,0 +1,3 @@
+2025-01-07 17:22:35 DEBUG /home/zbc/code/cpp/Network/echo/poll/src/socket.cpp:133 create socket success
+2025-01-07 17:22:35 DEBUG /home/zbc/code/cpp/Network/echo/poll/src/socket.cpp:72 connect called with ip=127.0.0.1, port=8080
+2025-01-07 17:22:35 ERROR /home/zbc/code/cpp/Network/echo/poll/src/socket.cpp:81 connect failed error_code=111, error_msg=Connection refused
